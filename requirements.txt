@@ -1,5 +1,6 @@
 earthkit==1.0.0
 
+ipykernel
 cdsapi
 numpy
 netCDF4
@@ -12,3 +13,6 @@ reverse-geocode
 jupyterlab
 ecmwf-opendata
 ecmwf-api-client
+covjsonkit
+polytope-client
+nbformat
