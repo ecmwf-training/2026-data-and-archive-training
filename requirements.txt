@@ -1,0 +1,14 @@
+earthkit==1.0.0
+
+cdsapi
+numpy
+netCDF4
+xarray
+rioxarray
+matplotlib
+cartopy
+statsmodels
+reverse-geocode
+jupyterlab
+ecmwf-opendata
+ecmwf-api-client
